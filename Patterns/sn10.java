@@ -17,5 +17,6 @@ public class sn10 {
             System.out.print("*".repeat(i));
             System.out.println();
         }
+        
     }
 }

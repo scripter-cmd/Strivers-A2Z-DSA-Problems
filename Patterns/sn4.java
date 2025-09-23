@@ -15,4 +15,5 @@ public class sn4 {
             System.out.println();
         }
     }
+    
 }

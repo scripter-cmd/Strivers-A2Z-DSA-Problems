@@ -12,4 +12,5 @@ public class sn16 {
             System.out.println();
         }
     }
+    
 }

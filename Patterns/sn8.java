@@ -22,5 +22,6 @@ public class sn8 {
             // String stars = "*".repeat(2 * i + 1);
             // System.out.println(spaces + stars);
         }
+        
     }
 }

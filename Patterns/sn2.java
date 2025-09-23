@@ -15,5 +15,6 @@ public class sn2 {
             }
             System.out.println();
         }
-    }
+    }   
+    
 }
